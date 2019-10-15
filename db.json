@@ -1,0 +1,258 @@
+{
+  "1": [
+    {
+      "id": "orders",
+      "orders": [
+        {
+          "month": "January",
+          "orders": "23"
+        },
+        {
+          "month": "February",
+          "orders": "45"
+        },
+        {
+          "month": "March",
+          "orders": "62"
+        },
+        {
+          "month": "April",
+          "orders": "32"
+        },
+        {
+          "month": "May",
+          "orders": "25"
+        },
+        {
+          "month": "june",
+          "orders": "65"
+        },
+        {
+          "month": "July",
+          "orders": "58"
+        },
+        {
+          "month": "August",
+          "orders": "15"
+        },
+        {
+          "month": "September",
+          "orders": "65"
+        },
+        {
+          "month": "October",
+          "orders": "45"
+        },
+        {
+          "month": "November",
+          "orders": "32"
+        },
+        {
+          "month": "December",
+          "orders": "15"
+        }
+      ]
+    },
+    {
+      "id": "users",
+      "users": [
+        {
+          "id": "1",
+          "name": "Vasya"
+        },
+        {
+          "id": "2",
+          "name": "Vivtor"
+        },
+        {
+          "id": "3",
+          "name": "Marina"
+        },
+        {
+          "id": "4",
+          "name": "Petr"
+        },
+        {
+          "id": "5",
+          "name": "Grigori"
+        },
+        {
+          "id": "6",
+          "name": "Ulyana"
+        },
+        {
+          "id": "7",
+          "name": "Aleks"
+        }
+      ]
+    }
+  ],
+  "2": [
+    {
+      "id": "orders",
+      "orders": [
+        {
+          "month": "January",
+          "orders": "32"
+        },
+        {
+          "month": "February",
+          "orders": "62"
+        },
+        {
+          "month": "March",
+          "orders": "21"
+        },
+        {
+          "month": "April",
+          "orders": "42"
+        },
+        {
+          "month": "May",
+          "orders": "35"
+        },
+        {
+          "month": "june",
+          "orders": "15"
+        },
+        {
+          "month": "July",
+          "orders": "32"
+        },
+        {
+          "month": "August",
+          "orders": "65"
+        },
+        {
+          "month": "September",
+          "orders": "32"
+        },
+        {
+          "month": "October",
+          "orders": "84"
+        },
+        {
+          "month": "November",
+          "orders": "65"
+        },
+        {
+          "month": "December",
+          "orders": "21"
+        }
+      ]
+    },
+    {
+      "id": "users",
+      "users": [
+        {
+          "id": "1",
+          "name": "Vasya"
+        },
+        {
+          "id": "2",
+          "name": "Aleks"
+        },
+        {
+          "id": "3",
+          "name": "Petya"
+        },
+        {
+          "id": "4",
+          "name": "Mihail"
+        }
+      ]
+    }
+  ],
+  "3": [
+    {
+      "id": "orders",
+      "orders": [
+        {
+          "month": "January",
+          "orders": "65"
+        },
+        {
+          "month": "February",
+          "orders": "43"
+        },
+        {
+          "month": "March",
+          "orders": "42"
+        },
+        {
+          "month": "April",
+          "orders": "53"
+        },
+        {
+          "month": "May",
+          "orders": "62"
+        },
+        {
+          "month": "june",
+          "orders": "65"
+        },
+        {
+          "month": "July",
+          "orders": "32"
+        },
+        {
+          "month": "August",
+          "orders": "54"
+        },
+        {
+          "month": "September",
+          "orders": "26"
+        },
+        {
+          "month": "October",
+          "orders": "32"
+        },
+        {
+          "month": "November",
+          "orders": "56"
+        },
+        {
+          "month": "December",
+          "orders": "21"
+        }
+      ]
+    },
+    {
+      "id": "users",
+      "users": [
+        {
+          "id": "1",
+          "name": "Andrey"
+        },
+        {
+          "id": "2",
+          "name": "Aleksandra"
+        },
+        {
+          "id": "3",
+          "name": "Elena"
+        },
+        {
+          "id": "4",
+          "name": "Yulia"
+        },
+        {
+          "id": "5",
+          "name": "Nick"
+        },
+        {
+          "id": "6",
+          "name": "Petro"
+        },
+        {
+          "id": "7",
+          "name": "Jon"
+        },
+        {
+          "id": "8",
+          "name": "Margaret"
+        }
+      ]
+    }
+  ]
+}
